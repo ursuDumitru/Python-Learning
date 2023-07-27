@@ -12,3 +12,6 @@ Python
 
 run in Python or cmd terminal:
     python .\PythonBasicsTutorial\app.py
+
+Community Packages:
+    https://pypi.org
