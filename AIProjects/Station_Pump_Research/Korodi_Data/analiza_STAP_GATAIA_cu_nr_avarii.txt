@@ -1,0 +1,26 @@
+(1) STAP GATAIA 
+
+Pompa Foraj 1
+Status 4 : 1 (1 record) 
+Status 5 : 2 (64 records)
+Pompa Foraj 2
+Status 4 : 0
+Status 5 : 1 (1 record)
+Pompa Foraj 3
+Status 4 : 2 (3 records)
+Status 5 : 2 (937 records)
+Pompa Foraj 4
+Status 4 : 0
+Status 5 : 0
+Pompa Foraj 5
+Status 4 : 0
+Status 5 : 2 (2 records)
+Pompa Foraj 6
+Status 4 : 2 (3 records)
+Status 5 : 4 (1850 records)
+Suflanta 1 Aerare
+Stare 4 : X (192766 records)
+Stare 5 : X (258190 records)
+Suflanta 2 Aerare
+Stare 4 : 0
+Stare 5 : 4 (4 records)

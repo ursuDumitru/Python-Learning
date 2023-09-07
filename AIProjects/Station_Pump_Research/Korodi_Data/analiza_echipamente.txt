@@ -1,0 +1,43 @@
+S-au verificat pompele, suflantele si stavilele din baza de date trimisa pentru SE Deta. Numarul de avarii este consistent la unele echipamente si apare in lista urmatoare. 
+Un studiu ar putea fi facut pentru estimarea avariilor la Suflante si la Pompele de namol de la reactorul biologic 1.
+----------------------------------------------------------------------------------------------------------------------------------------
+Status = 1 (valoare 1 - avarie echipament)
+
+
+Camin intrare
+Stavila 1 : 0
+Stavila 2 : 0
+
+SPI 1
+Pompa 1 : 0
+Pompa 2 : 1 avarie in 27.09.2022 (3018 records -> a stat in avarie aproape 1 zi)
+Pompa 3 : 0
+Statie Suflante 1
+Suflanta 1 : 11 avarii (45 records)
+Suflanta 2 : 6 avarii (9 records)
+Suflanta 3 : 7 avarii (7 records)
+Reactor Biologic 1
+Pompa 1 Alimentare : 1 avarie in 18.11.2022 (1 record)
+Pompa 2 Alimentare : 4 avarii (4 records)
+Pompa 1 Namol : X avarii (26042 records)
+Pompa 2 Namol : 9 avarii (9 records)
+Reactor Biologic 2
+Pompa 1 Alimentare : 0
+Pompa 2 Alimentare : 0
+Pompa 1 Namol : 0
+Pompa 2 Namol : 0
+
+SPAT 1
+Pompa 1 Incendiu : 0
+Pompa 2 Incendiu : 0
+Pompa Alimentare HD : 0
+Pompa 1 Hidrofor : 0
+Pompa 2 Hidrofor : 0
+Bazin Namol 1
+Pompa 1 Supernatant : 0
+Pompa 2 Supernatant : 0
+Deshidratare 1
+Pompa 1 Namol : 0
+Pompa 2 Namol : 0
+Pompa 1 Polielectrolit : X avarii (30929 records)
+Pompa 2 Polielectrolit : X avarii (30930 records)
