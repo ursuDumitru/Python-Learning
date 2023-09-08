@@ -31,3 +31,6 @@ Papermill:
     for kernel : 
     https://stackoverflow.com/questions/37433363/link-conda-environment-with-jupyter-notebook/38880722#38880722
     activate it from top up (where it says Python {version})
+
+Visual Studio Code :
+Ctrl + Tab = to move between files
