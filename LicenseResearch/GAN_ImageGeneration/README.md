@@ -1,6 +1,5 @@
 # NECESARY THINGS FOR THE GAN
 
-## CUDA Toolkit
-    https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
-or
-    conda install -c nvidia cuda-python
+## CUDA Toolkit installation
+
+- [Tutorial on installing CUDA Toolkit](https://www.youtube.com/watch?v=ctQi9mU7t9o)
