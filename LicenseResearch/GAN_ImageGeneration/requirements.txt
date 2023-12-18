@@ -47,7 +47,7 @@ opt-einsum==3.3.0
 packaging==23.2
 parso==0.8.3
 pickleshare==0.7.5
-Pillow==9.5.0
+Pillow==10.0.1
 promise==2.3
 prompt-toolkit==3.0.39
 protobuf==3.19.6
